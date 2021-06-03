@@ -1,0 +1,261 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-stylesheet type="text/css" href="http://www.textcreationpartnership.org/docs/code/pfs.css"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>The Papists politicke projects discovered. Or a dialogue betwixt crucifix and holy-water.</title>
+         </titleStmt>
+         <extent>Approx. 11KB of XML-encoded text transcribed from 5 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2016-02">2016-02 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">B04796</idno><idno type="EEBO-CITATION">47012564</idno>
+  <idno type="VID">174531</idno>
+  <idno type="EEBO-PROQUEST">2248517983</idno>
+  
+            <idno type="STC">Wing P318B</idno>
+            <idno type="STC">ESTC R181431</idno>
+            <idno type="OCLC">47012564</idno>
+            <availability><p>This keyboarded and encoded edition of the work described above is co-owned by the
+    institutions providing financial support to the Early English Books Online Text Creation
+    Partnership. This text is available for reuse, according to the terms of <ref target="https://creativecommons.org/publicdomain/zero/1.0/"> Creative Commons 0 1.0 Universal
+    licence</ref>. The text can be copied, modified, distributed and performed, even for commercial
+    purposes, all without asking permission.</p></availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online text creation partnership.</title>
+         </seriesStmt>
+         <notesStmt><relatedItem type="facs" target="https://data.historicaltexts.jisc.ac.uk/view?pubId=eebo-e"/>
+            <note>(EEBO-TCP ; phase 2, no. B04796)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 174531)</note>
+            <note>Images scanned from microfilm: (Early English Books, 1641-1700 ; 2691:16)</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>The Papists politicke projects discovered. Or a dialogue betwixt crucifix and holy-water.</title>
+               </titleStmt>
+               <extent>[3], 6 p.   </extent>
+               <publicationStmt>
+                  <publisher>[s.n.]</publisher>
+                  <pubPlace>[London] :</pubPlace>
+                  <date>Printed in the yeare 1641.</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Contains illustrations, p. [1] and t.p.</note>
+                  <note>Place of publication taken from Wing (2nd ed.)</note>
+                  <note>Reproduction of original in: Universität Göttingen Bibliothek.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,363 texts created during Phase 1 of the project have been released into the public domain as of 1 January 2015. Anyone can now take and use these texts for their own purposes, but we respectfully request that due credit and attribution is given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Full documentation of the original data capture process is available from the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.
+   All versions of the texts are now archived and freely available for download. See <ref target="https://textcreationpartnership.org/faq/#faq05">the TCP Download FAQ</ref>
+   for detailed information. The TEI P5 versions are also freely available from the <ref target="https://github.com/textcreationpartnership">TCP Github repository</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp" matchPattern="([0-9\-]+):([0-9IVX]+)" replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char" matchPattern="(.+)" replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term type="corporate_name">Catholic Church --  Controversial literature --  Great Britain --  17th century.</term>
+               <term type="topical_term">Anti-Catholicism --  Great Britain --  Early works to 1800.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2014-05 </date>
+            <label>Apex CoVantage</label>Keyed and coded from ProQuest page images </change>
+         <change>
+            <date>2014-08 </date>
+            <label>Kate Allen </label>Sampled and proofread </change>
+         <change>
+            <date>2014-08 </date>
+            <label>Kate Allen</label>Text and markup reviewed and edited </change>
+         <change>
+            <date>2015-03 </date>
+            <label>pfs</label>Batch review (QC) and XML conversion </change>
+      <change><date>2021-05 </date><label>lb</label>TEI P5 conversion </change></revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <front>
+         <div type="illustration">
+            <pb facs="tcp:174531:1"/>
+            <p>
+               <figure>
+                  <figDesc>portrait of a Cardinal</figDesc>
+                  <head>FP TQC</head>
+               </figure>
+            </p>
+         </div>
+         <div type="title_page">
+            <pb facs="tcp:174531:1"/>
+            <p> The Papists politicke projects discovered.</p>
+            <p>Or a Dialogue betwixt <hi>Crucifix</hi> and <hi>Holy-water.</hi>
+            </p>
+            <figure>
+               <figure>
+                  <figDesc>5 men and a winged figure gathered around a table</figDesc>
+                  <q>Time brings all to light.</q>
+                  <q>The eye of heaven seeth all.</q>
+               </figure>
+               <figure>
+                  <figDesc>a fleet of ships</figDesc>
+                  <p>1589.</p>
+               </figure>
+               <figure>
+                  <figDesc>a church</figDesc>
+                  <p>1605.</p>
+               </figure>
+               <figure>
+                  <figDesc>a fleet of ships</figDesc>
+                  <p>1639.</p>
+               </figure>
+            </figure>
+            <p>Printed in the yeare 1641.</p>
+            <pb facs="tcp:174531:2"/>
+         </div>
+      </front>
+      <body>
+         <div type="dialogue">
+            <pb n="1" facs="tcp:174531:2"/>
+            <head>A Dialogue betweene <hi>Crucifix</hi> and <hi>Holy-water.</hi>
+            </head>
+            <sp>
+               <speaker>Holy-water.</speaker>
+               <p>
+                  <seg rend="decorInit">M</seg>Aster <hi>Crucifix,</hi> me thinkes your lookes something savor of Lent still, your chops are falne; the pure red once raigning in your cheekes, is now con<g ref="char:EOLhyphen"/>verted into pale or swarthy, what is it my deare adorer of Saints that has bred this alte<g ref="char:EOLhyphen"/>ration in you?</p>
+            </sp>
+            <sp>
+               <speaker>Crucif.</speaker>
+               <p>Brother <hi>Holy-water</hi> though your speech has a pleasing accent, yet your aspect is not so cherefull as hereto fore: you have been at confession lately, have you not? and there for some hainous sinne you are enjoyned pennance to fast three daies in a weeke, to forbeare flesh, especially Mutton, An<g ref="char:EOLhyphen"/>thonies, Eringoes and Caviarres, and such meat of concupiscence you must not be acquainted withall, or you must not coire with your Concubine, or what is it that distempers you?</p>
+            </sp>
+            <sp>
+               <speaker>Holyw.</speaker>
+               <p>Those you pronounc'd I must confesse were sufficient to make me ou<gap reason="illegible" resp="#keyers" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>goe my reason, but they are triffles to it, that which has begot this new phisiognomy in me, tis the Parliament.</p>
+            </sp>
+            <sp>
+               <speaker>Cruc.</speaker>
+               <p>Ha! the Parliament? that word's more ter<g ref="char:EOLhyphen"/>rible to methen the Popes Bul, Bels rung the wrong way breed not such horror in the hearers hearts as the sound of that word has quaking in my breast; nay, then I see all our actions as darke as hell, will
+<pb n="2" facs="tcp:174531:3"/> be brought to light, our cunning devices to deceive the simple, will not onely be espied but rewarded.</p>
+            </sp>
+            <sp>
+               <speaker>Holyw.</speaker>
+               <p>Wee cannot now tell our credulous hea<g ref="char:EOLhyphen"/>rers of our strict orders, how religious men we be, of the Society of Icsus, Benedictins, Franciscans, Augustinians, Bernardines, Antonians, Ioannites, Carthusians, Premonstratentians, Cistertianes, and the like; which they understand as well as we, our distinct habits and customes differing one from a<g ref="char:EOLhyphen"/>nother, how we professe perpetuall chastity, obe<g ref="char:EOLhyphen"/>dience, and wilfull poverty.</p>
+            </sp>
+            <sp>
+               <speaker>Cruc.</speaker>
+               <p>Nor doe you tell them how the Popes holinesse can dispense with any thing, how their penury is turned into plenty, how their chastity be<g ref="char:EOLhyphen"/>comes charity for the relieving collapsed Ladies wants.</p>
+            </sp>
+            <sp>
+               <speaker>Holyw.</speaker>
+               <p>No, nor discourse of the ward rope of habiliments that our Masse Priest beares about him, as the Amice, the long Albe, the Girdle, the Stole, the Maniple, the Castula, the Napkin, or Sudary, the Sandals, the Purple Coat with wide Sleeves, the Gloves, the Ring, the Pall or Cope, the Crosiers Staffe, and many more; the very names whereof are sufficient to seduce the simple.</p>
+            </sp>
+            <sp>
+               <speaker>Cruc.</speaker>
+               <p>And how they must pray in Latine although they cannot understand it, but must trust to the Priests honesty for that, and say Amen to it, though for ought they know they have prayed for their owne damnation; and that to many of the Priests it may be Greek or Hebrew for ought they know too.</p>
+            </sp>
+            <sp>
+               <speaker>Holyw.</speaker>
+               <p>And perswade them that if any but heare Masse, and after hearing be sprinckled with holy<g ref="char:EOLhyphen"/>water, and kisse the Priests Garments, he cannot commit that day any mortall sinne, although hee
+<pb n="3" facs="tcp:174531:3"/> would, and that drunkennesse, lying, cursing, breach of the Sabboth, swearing, and (upon a good occasion) for<g ref="char:EOLhyphen"/>swearing, are not onely veniall, but also sometimes very necessary.</p>
+            </sp>
+            <sp>
+               <speaker>Cruc.</speaker>
+               <p>And how zealous and precise they are, for if there betwenty Priests in a house, they must all say Masse be<g ref="char:EOLhyphen"/>fore noone, though there bee no body by, though they sacrifice to the walls: they must have their beads to pray by number too, or else their prayers want weight. A hundred and fifty Pater Nosters, and as many Ave Ma<g ref="char:EOLhyphen"/>ries, and forty Creeds, are nothing, and if one of the right number be amisse, all the rest are effectlesse, nay it is a mortall sinne if among so many prayers for pennance one onely be omitted.</p>
+            </sp>
+            <sp>
+               <speaker>Holyw.</speaker>
+               <p>And then in their processions, pray to the dead, invoke the Saints and Angels, adore the consecrated host, administer the Sacrament under one kind, sprinckle Ho<g ref="char:EOLhyphen"/>ly-water, tinkle a bell at the elevation, kisse the ground where the Priest hath stood, worship reliques, repeat the name of Iesus nine times together, crosse the fore<g ref="char:EOLhyphen"/>head, mouth and breast many times, wet their fingers in the holy pot before they goe towards the Altar, kneele downe to every Priest they meete, amblethrice about a crosse, and many more (to speake truely superstitious) worships; these and the like being spoken plausibly to the multitudes itching eares, would have drawne their hearts as a loadstone does iron.</p>
+            </sp>
+            <sp>
+               <speaker>Cruc.</speaker>
+               <p>If that would not move them, we would then ac<g ref="char:EOLhyphen"/>quaint them with the delights that Priests enjoyed, as how many a poore Gentleman that cannot rule his wife is faine or rather forced to weare their marke <hi>in Capite,</hi> and they must have <hi>in Marsupio</hi> though the other bee <hi>in Carcere;</hi> they feed of the best meates, best wine, best beere, and best of every thing that can bee got, they
+<pb n="4" facs="tcp:174531:4"/> shrive young and hansome wenches, and when the flesh rebells against the spirit, they perswade them it is a ve<g ref="char:EOLhyphen"/>niall sin to be broken up by a holy Priest, and sometimes they will injoyne it them for pennance.</p>
+            </sp>
+            <sp>
+               <speaker>Holyw.</speaker>
+               <p>And to others wee would maintaine that the teares of Priests were very precious and powerfull, as to wash away and drowne Divells, nay there is power in a Priests breath, his gloves, his hose, his girdle, his shirts to scorch the Divell, in his Albe, his Amice, his Mani<g ref="char:EOLhyphen"/>ple and his stole to whip and plague the Divell, in Ho<g ref="char:EOLhyphen"/>lywater, hallowed Candles, Frankinsence, Brimstone, the booke of Exorcismes, and the holy potion to seald, broile, and to sizle the Divell, in the Crosse and sacri<g ref="char:EOLhyphen"/>fice of the Altar to torment the Divell till he roares at stake like a Bull: I cannot but laugh to thinke how the credulous fooles would bee tickled with the delight of these fine fictions.</p>
+            </sp>
+            <sp>
+               <speaker>Cruc.</speaker>
+               <p>By holy <hi>Mary</hi> to speake truely, the breath of many Priests might have power enough to dee these feats, for the breath of those that <hi>anhelitu oris enecant homines,</hi> or of <hi>Leno</hi> that had almost blowne downe a young gallant that stood in his way, or of the Stygian Lake, over which if a bird flye, with the pestiferous smell thereof she is quite suffocated and falls down dead, are not neere so p<gap reason="illegible" resp="#keyers" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>stilentious as the breath of many Priests, especially those whose lungs are a little ulcera<g ref="char:EOLhyphen"/>ted, or Frenchified with <hi>morbo gallico,</hi> as you know there are not few of them.</p>
+            </sp>
+            <sp>
+               <speaker>Holyw.</speaker>
+               <p>If the Priests breath were not very soveraigne, to what purpose should they spit and breath in the mouth of a young child in its baptisme? Why, I have heard and reported too, that one being possessed with a Divell, and a Priest standing before the possessed, the Divell durst not come out at the possesseds mouth be<g ref="char:EOLhyphen"/>cause
+<pb n="5" facs="tcp:174531:4"/> of the Priests strong breath, which to avoid hee came out at his eare.</p>
+            </sp>
+            <sp>
+               <speaker>Cruc.</speaker>
+               <p>But theres more vertue in a Priests gloves, hose and shirt, for one being possessed with a Divell, put but one of the Priests gloves on his hand, and the Divell run as if the Divell had beene in him. Another had a Divell in his legge, upon which he put one of the Priests stoc<g ref="char:EOLhyphen"/>kings, and the Divell cryed out for help, I wonder it did not rot the parties leg off. But the Priests poore Lan<g ref="char:EOLhyphen"/>dresse was served a foule tricke, for the Divell came sneaking behind her and gave her a trip like a Wrestler in Einsbury fields, and pitcht the poore Landresse on her hip, the reason was because she was washing one of the Priests Exorcist shirts, which afterwards whipped this Divell out of one that was possessed.</p>
+            </sp>
+            <sp>
+               <speaker>Holyw.</speaker>
+               <p>I marry, Sir, those were fine stories indeed, but would any believe them?</p>
+            </sp>
+            <sp>
+               <speaker>Cruc.</speaker>
+               <p>Beleeve them? yes, and turne Roman Catho<g ref="char:EOLhyphen"/>lickes too, I have made many a puppy goe in procession to Tiburne in penitentiall manner, and being naked from the girdle upwards to scourge themselves with whips till the blood gusht out like Rivers.</p>
+            </sp>
+            <sp>
+               <speaker>Holyw.</speaker>
+               <p>And why to Tiburne?</p>
+            </sp>
+            <sp>
+               <speaker>Cruc.</speaker>
+               <p>In a double sense: First, because many holy and religious forsooth Catholickes had beene martyred there, where they must pray for their departed soules. The second was because (in truth if they had had their merit) they ought not to have gone on foot, but have taken shipping in Master <hi>Carnifex</hi> his two wheel'd Chariot, and in state have sail'd up that ama<g ref="char:EOLhyphen"/>rous hill till they had approached the place afore<g ref="char:EOLhyphen"/>said, where after <hi>Miserere mei</hi> sung, and a Bead dropt <hi>Exeant regnum.</hi> O what glory I have taken in these and the like prankes, I thinke in my conscience none of the
+<pb n="6" facs="tcp:174531:5"/> inferior Divels was so jocund, when he had done <hi>Lucifer</hi> good service, as I have beene when I have converted or rather destroyed a soule.</p>
+            </sp>
+            <sp>
+               <speaker>Holyw.</speaker>
+               <p>And you shalbe rewarded as they are; this Par<g ref="char:EOLhyphen"/>liament will firke you, and as plainely perceive your roguery as you have here declared it.</p>
+            </sp>
+            <sp>
+               <speaker>Cruc.</speaker>
+               <p>Why? you are in the same predicament, what shall we doe?</p>
+            </sp>
+            <sp>
+               <speaker>Holyw.</speaker>
+               <p>Dost thou not thinke if we had the Priests fore<g ref="char:EOLhyphen"/>said strong breath and wonder-working habit, that it would preserve us, especially if it were soundly crossed and sprinkled with holy-water?</p>
+            </sp>
+            <sp>
+               <speaker>Cruc.</speaker>
+               <p>I prey thee jest no more, but let's seeke some course to preserve our lives, if we be taken we shall smell extreamely, <hi>Conscientia mille testes.</hi>
+               </p>
+            </sp>
+            <sp>
+               <speaker>Holyw.</speaker>
+               <p>I know no other refuge but Rome, whither we must flye, and therefore let us fall to our <hi>Salve Regina, Ave Maria,</hi> and <hi>Ora pro nobis;</hi> and if we can practice such jugling in another place weel about it, if not, live till we dye, and theres an end. Come lets goe.</p>
+            </sp>
+            <trailer>FINIS.</trailer>
+         </div>
+      </body>
+   </text>
+</TEI>
